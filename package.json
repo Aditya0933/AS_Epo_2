@@ -1,0 +1,14 @@
+{
+  "name": "asep02",
+  "version": "1.0.0",
+  "description": "Namaste JS",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aditya",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
