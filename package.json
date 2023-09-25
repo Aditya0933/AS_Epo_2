@@ -4,7 +4,9 @@
   "description": "Namaste JS",
   "main": "App.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "madarchod":"parcel index.html"
+    
   },
   "author": "Aditya",
   "license": "ISC",
